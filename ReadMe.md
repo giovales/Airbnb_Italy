@@ -4,7 +4,7 @@ This project was proposed by the Data Glow Up initiative from Heitor Sasaki. The
 
 # 📊 Dataset
 
-The open data is from the Inside Airbnb website. The files have detailed listings, reviews, and calendar data. I used the listings and reviews files for visualization. You can find the data I used and more at the following link: https://insideairbnb.com/get-the-data/
+The open data is from the Inside Airbnb website. The files have detailed listings, reviews, and calendar data. I used the listings and reviews files for visualization. You can find the data I used and more in the following link: https://insideairbnb.com/get-the-data/
 
 # 📝 Project Steps
 
@@ -29,8 +29,8 @@ The open data is from the Inside Airbnb website. The files have detailed listing
 4. **Data Visualization**:
     - Tool: Power BI
     - Input: SQLite database
-    - Process: Connect to database, create visualizations and dashboards
-    - Output: Interactive visualizations and reports
+    - Process: Connect to database, create visualizations and dashboard
+    - Output: Interactive visualization
 
 # 📈 Data Visualization
 
