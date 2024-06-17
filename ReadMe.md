@@ -1,6 +1,6 @@
 # 🌍 About
 
-This project was proposed by the Data Glow Up initiative from Heitor Sasaki. The idea is to navigate through Italian cities on the map and analyze the number of Airbnbs available, average price and scores for each room type, number of hosts and superhosts, etc. I'm also bringing a short analysis of the boom of new Airbnb hosts in Italy.
+This project was proposed by the Data Glow Up initiative from Heitor Sasaki. The idea is to show the growing popularity of short-term rentals and the importance of understanding consumer behavior to maximize guest satisfaction and host revenue.
 
 # 📊 Dataset
 
@@ -34,7 +34,7 @@ The open data is from the Inside Airbnb website. The files have detailed listing
 
 # 📈 Data Visualization
 
-You can navigate through the dashboard at the following link: https://app.powerbi.com/view?r=eyJrIjoiYThiYzczOWYtOThjZi00NDE1LTkyM2QtOTgxNmQzNzQ3ZGNiIiwidCI6ImIxY2E3YTgxLWFiZjgtNDJlNS05OGM2LWYyZjJhOTMwYmEzNiJ9
+You can navigate through the dashboard in the following link: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDRmOTQwNTktMjdlZi00ZTBjLWE0NTUtMjNhMGFhMzIwNDVhIiwidCI6ImIxY2E3YTgxLWFiZjgtNDJlNS05OGM2LWYyZjJhOTMwYmEzNiJ9)
 
 # 💬 Comments and Suggestions
 
